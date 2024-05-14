@@ -1,6 +1,6 @@
-# Audio Emotion Recognition Project
+# Audio Emotion Recognition 
 
-This project focuses on audio emotion recognition using various datasets. The goal is to classify emotions from audio files. This README provides an overview of the code, datasets used, and key functionalities.
+Ever wondered how a machine can feel your vibes? Well, here's your answer! This project dives into the world of audio signals and extracts the hidden emotions behind them. This README provides an overview of the code, datasets used, and key functionalities. 
 
 ## Table of Contents
 
